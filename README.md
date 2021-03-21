@@ -39,6 +39,8 @@
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
+<a href="https://www.dotnet.microsoft.com/" title=".NET Core"><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+
 <a href="https://www.dotnet.microsoft.com/" title=".NET Core"><img align="left" alt="Terminal" width="26px" src="icons/dotnet.png" /></a>
 <a href="https://www.vscode.microsoft.com/" title="C#"><img align="left" alt="Terminal" width="26px" src="icons/csharp.png" /></a>
 <a href="https://www.postman.microsoft.com/" title="Postman"><img align="left" alt="Terminal" width="26px" src="icons/postman.png" /></a>
