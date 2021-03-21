@@ -28,8 +28,7 @@
 <a href="https://www.postman.microsoft.com/" title="Postman"><img align="left" alt="Terminal" width="26px" src="icons/postman.png" /></a>
 <a href="https://www.visualstudiocode.com/" title="VS Code"><img align="left" alt="Terminal" width="26px" src="icons/vs code.png" /></a>
 <a href="https://www.django.com/" title="Django"><img align="left" alt="Terminal" width="26px" src="icons/django.png" /></a>
-<a href="https://www.androidstudio.com/" title="Android Studio"><img align="left" alt="Terminal" width="26px" src="icons/android.png"/></a>
-<br/>
+<a href="https://www.androidstudio.com/" title="Android Studio"><img align="left" alt="Terminal" width="26px" src="icons/android.png"/></a>  
 <a href="https://www.java.com/" title="Java"><img align="left" alt="Terminal" width="26px" src="icons/java.png" /></a>
 <a href="https://www.python.com/" title="Python"><img align="left" alt="Terminal" width="26px" src="icons/python.png" /></a>
 <a href="https://www.ubuntu.com/" title="Ubuntu"><img align="left" alt="Terminal" width="26px" src="icons/ubuntu.png" /></a>
