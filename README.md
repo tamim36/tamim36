@@ -4,10 +4,10 @@
 
 ## I'm a Learner, Developer & Tech Enthusiast!!
 
-- 🔭 I am currently solving problem on [LeetCode][course]!
+- 🔭 I am currently solving problem on [LeetCode]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with open source porjects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel more and more
 
 ### Spotify Playing 🎧
