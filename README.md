@@ -15,7 +15,7 @@
   <img src="icons/aws_badge.png" alt="AWS Certified Cloud Practitioner" width="120" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=5.6%2B+Years+of+Professional+Experience;Building+Scalable+Microservices;Cloud+%26+DevOps+Enthusiast;Problem+Solver+%7C+600%2B+LeetCode+Problems;AWS+Certified+Cloud+Practitioner;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=6%2B+Years+of+Professional+Experience;Building+Scalable+Microservices;Cloud+%26+DevOps+Enthusiast;Problem+Solver+%7C+600%2B+LeetCode+Problems;Angular+%26+React+Maestro;.Net+Backend+Expert;AWS+Certified+Cloud+Practitioner;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
