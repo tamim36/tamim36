@@ -205,7 +205,9 @@ I'm always interested in collaborating on innovative projects and discussing tec
 
 ---
 
-![](https://komarev.com/ghpvc/?username=tamim36&color=orange)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-126.5k-orange?style=for-the-badge)
+
+
 
 *Last Updated: November 2025*
 
