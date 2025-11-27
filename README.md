@@ -33,7 +33,7 @@ const tamim = {
     certifications: ["AWS Cloud Practitioner"],
     passion: "Building scalable systems that impact millions of users",
     goals2025: "Contribute more to Open Source & Master Cloud Native Architecture",
-    funFact: "I love traveling and solving complex algorithmic problems ✈️"
+    funFact: "I love traveling ✈️ and watching football ⚽️ "
 };
 ```
 
@@ -54,7 +54,7 @@ const tamim = {
 
 ### 💪 Problem Solving Achievements
 [![](https://img.shields.io/badge/LeetCode-600%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/tamimarefinanik)
-[![](https://img.shields.io/badge/HackerRank-5★_SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/tamim36)
+[![](https://img.shields.io/badge/HackerRank-5★_SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/tamimarefinanik)
 
 </div>
 
@@ -185,7 +185,7 @@ Leading a team to victory in competitive AI hackathon
 
 ### 🎖️ Additional Achievements
 [![LeetCode](https://img.shields.io/badge/LeetCode-600%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/tamimarefinanik)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5★_SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/tamim36)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5★_SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/tamimarefinanik)
 
 </div>
 
