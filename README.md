@@ -205,7 +205,7 @@ I'm always interested in collaborating on innovative projects and discussing tec
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=tamim36&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+![](https://komarev.com/ghpvc/?username=tamim36&color=orange)
 
 *Last Updated: November 2025*
 
